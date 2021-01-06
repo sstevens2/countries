@@ -1,3 +1,0 @@
-Population: 126,500,000
-Capitol: Tokyo
-Largest city: Tokyo
